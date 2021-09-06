@@ -37,7 +37,6 @@ $ cd client/
 $ npm start
 ```
 ```bash
-# After installation, run client and server by following the below steps
 $ cd server/
 ```
 ```bash
