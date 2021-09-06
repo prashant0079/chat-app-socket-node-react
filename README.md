@@ -50,9 +50,9 @@ $ npm start
 
 
 ## Improvements
-* Using db to store chats and user information
-* One to One chat
-* That's a lot to do in just two hours( :sweat_smile:	)
+* Using db to store chats and user information.
+* One to One chat(Atm it is just a chat room anyone can come and chat).
+* That's a lot to do in just two hours( :sweat_smile:	).
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
